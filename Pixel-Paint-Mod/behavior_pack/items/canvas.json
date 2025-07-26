@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pixel_paint:canvas",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "textures/items/canvas",
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.tools"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Painting Mod Behaviors",
+    "description": "Entities, items, and painting logic for the painting mod.",
+    "uuid": "e01ed0bb-f63a-45d6-ab99-82e64eeb5804",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "e557b4b8-89d2-43af-978a-9cddcdefc065",
+      "version": [1, 0, 0]
+    }
+  ]
+}

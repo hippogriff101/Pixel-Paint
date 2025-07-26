@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Painting Mod Resources",
+    "description": "Textures, UI, and icons for the painting mod.",
+    "uuid": "6b8063a7-ad19-422b-943a-69bf7bb1561c",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "dc50ad86-89fe-4c9f-9a4d-235ca416f7a7",
+      "version": [1, 0, 0]
+    }
+  ]
+}
