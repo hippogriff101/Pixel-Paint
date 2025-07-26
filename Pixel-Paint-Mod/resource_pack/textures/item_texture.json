@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "PixelPaintResources",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "pixel_paint_canvas": {
+      "textures": "textures/items/canvas"
+    }
+  }
+}
